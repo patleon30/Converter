@@ -35,7 +35,7 @@ function checkInput() {
 	}	
 }
 function colors(temp, degree) {
-	switch (D) {
+	switch (temp, degree) {
 	
 	case "&deg;F":
 	
